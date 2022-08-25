@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-event-usestate/static/css/main.57a933b1.css",
+    "main.js": "/react-event-usestate/static/js/main.79f89e2e.js",
+    "static/media/fondo.jpg": "/react-event-usestate/static/media/fondo.265b32cf27a021e893d1.jpg",
+    "static/media/fondo-input.jpg": "/react-event-usestate/static/media/fondo-input.31b05ea73d88cda2c112.jpg",
+    "index.html": "/react-event-usestate/index.html",
+    "main.57a933b1.css.map": "/react-event-usestate/static/css/main.57a933b1.css.map",
+    "main.79f89e2e.js.map": "/react-event-usestate/static/js/main.79f89e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a933b1.css",
+    "static/js/main.79f89e2e.js"
+  ]
+}
